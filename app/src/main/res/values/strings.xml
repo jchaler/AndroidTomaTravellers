@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Toma Travellers</string>
+
+    //SignUp UI
+    <string name="txtButtonSignUpUI">Registrar</string>
+    <string name="textInfoLoginSignUpUI">Torna al login</string>
+    <string name="textRadioButtonFemaleSignUpUI">Femenina</string>
+    <string name="textRadioButtonMaleSignUpUI">Masculina</string>
+
+    //Login UI
+    <string name="textInfoSignUpLoginUI">Registrar-se</string>
+    <string name="campEmailBuitLogin">Introdueix l\'email</string>
+    <string name="campClauBuitLogin">Introdueix la clau</string>
+    <string name="titleLoginUI">Toma Travellers</string>
+    <string name="textForgotPasswordLoginUI">Has oblidat la teva clau?</string>
+    <string name="textEntrarButtonLoginUI">Entrar</string>
+
+    //Forgot Password UI
+    <string name="textButtonForgotPasswordUI">Recuperar</string>
+    <string name="textInfoForgotPasswordUI">Introdueix el teu email i recupera la clau</string>
+    <string name="textTornarForgotPasswordUI">Tornar al login</string>
+
+    <string name="clauEditTextHint">Clau</string>
+    <string name="emailEditTextHint">Email</string>
+    <string name="confClauEditTextHint">Confirmar clau</string>
+</resources>
