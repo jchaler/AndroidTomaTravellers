@@ -23,5 +23,6 @@ class LoginActivity: AppCompatActivity() {
                 )
             )
         }
+        println("test")
     }
 }
